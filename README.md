@@ -1,5 +1,9 @@
 # **Data Analysis and Machine Learning Portfolio Project Starbucks Worldwide Locations**
 
+<div align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png" alt="Starbucks Logo" width="600" height="600">
+</div>
+
 ## **Objective**:
 The purpose of this project is to create a prediction model that can accurately forecast the number of Starbucks locations in a country by using factors such as GDP per capita, population, and ease of conducting business.
 
