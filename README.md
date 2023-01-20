@@ -69,6 +69,10 @@ The model was evaluated using a number of metrics such as Mean Absolute Error (M
 
 Deployment part will be uploaded soon using Streamlit library
 
+## **Note**
+
+This work is a portfolio project and is used for educational purposes only.
+
 ## **License**
 
 This project is licensed under the MIT License
